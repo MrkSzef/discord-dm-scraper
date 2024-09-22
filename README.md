@@ -1,0 +1,1 @@
+this little program can intercept all messages sent by account and send it to a webhook, currently it is set to only intercept dms
